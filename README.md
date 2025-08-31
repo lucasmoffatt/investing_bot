@@ -5,5 +5,8 @@ The chatbot retrieves up-to-date financial knowledge from Canadian financial ins
 
 
 Example of use:
+
+
+
 <img width="599" height="752" alt="image" src="https://github.com/user-attachments/assets/7a99536e-37f6-4979-9862-146ada67f244" />
 
